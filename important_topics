@@ -4,7 +4,27 @@
 4. Different models of GPTs and Gemini pro models
 5. How LLM works?
 6. LLMs and their roles in GEN AI
-7. Capabilities of LLM models (i.e. Language generation, Code generation,Language translation, Q & A, knowledge retrieval, Audio and Video processing  etc.)
+7. Capabilities of LLM models (i.e. Language generation, Code generation,Language translation, Q & A,      
+   knowledge retrieval, Audio and Video processing  etc.)
 8. Application of LLMs
 9. Prompt Engineering
 10. Model fine-tuning 
+11. Artificial General Intelligence(AGI)
+12. Responsible AI
+13. Advances GenAI models
+    Fine-tuning model
+    Zero shot and Few Shot learning
+    Multimodel Generative models
+14. Integration with other technology
+    AR/VR
+    IOT
+    Blockchain
+15. Generative AI Video, Text and images
+16. prompt engineering, RAG, GraphRAG, fine-tuning and Agents
+17. Advantage and Disadvantage of various RAG
+18. Fine-tuning types i.e PEFT, LORA and QLORA
+19. Model artitecture BERT, GPT and transformer
+20. Pre-trained model for domain specific from scratch
+21. LLMs...RAG...Langchain and Llamaindex ....Fine-tunig ....LLM evaluation(arize and phoenix)
+    https://phoenix.arize.com/
+    
