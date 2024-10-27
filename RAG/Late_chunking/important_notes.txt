@@ -1,0 +1,3 @@
+https://jina.ai/news/late-chunking-in-long-context-embedding-models/
+https://colab.research.google.com/drive/15vNZb6AsU7byjYoaEtXuNu567JWNzXOz?usp=sharing
+https://medium.com/@bavalpreetsinghh/late-chunking-embedding-first-chunk-later-long-context-retrieval-in-rag-applications-3a292f6443bb
